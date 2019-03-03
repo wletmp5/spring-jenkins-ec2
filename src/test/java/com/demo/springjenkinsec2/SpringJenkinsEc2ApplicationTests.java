@@ -11,6 +11,7 @@ public class SpringJenkinsEc2ApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		assert true;
 	}
 
 }
